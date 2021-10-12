@@ -1,7 +1,5 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is second account
-
 ## &#x270d; My github officially
 
 you can find my github official at [Github Ahmad Ammar Bahtiar](https://github.com/ahmadammarbahtiar/)
