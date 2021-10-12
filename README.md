@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ammarbahtiarasli/ammarbahtiarasli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ahmad Ammar Bahtiar and I'm a Freelance Web Developer. I'm from Pangandaran - Indonesia, living in Pangandaran and currently Studying at University Pasundan, Bandung.
 
-Here are some ideas to get you started:
+## &#x270d; My Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+you can find my website at [ammarbahtiar.my.id](https://ammarbahtiar.my.id/)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-vscode-blue)
+![](https://img.shields.io/badge/os-windows-blue)
+
+
+
+## Get in touch
+- Facebook: https://web.facebook.com/profile.php?id=100013569643281
+- Instagram: https://instagram.com/ammarbahtiarasli/
+- Youtube: https://www.youtube.com/channel/UCEXpr4u-sgNTTGetJ-av7Zg
+- SoundCloud: https://soundcloud.com/ammarbahtiarasli
