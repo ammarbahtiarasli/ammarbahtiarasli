@@ -6,7 +6,7 @@ My name is Ahmad Ammar Bahtiar and I'm a Freelance Web Developer. I'm from Panga
 
 ## &#x270d; My Website
 
-you can find my website at [ammarbahtiar.me](https://ammarbahtiar.me/)
+You can find My Website at [ammarbahtiar.me](https://ammarbahtiar.me/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-blue)
