@@ -10,7 +10,7 @@ You can find My Website at [ammarbahtiar.me](https://ammarbahtiar.me/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-blue)
-![](https://img.shields.io/badge/OS-Windows11-blue)
+![](https://img.shields.io/badge/OS-Ubuntu-orange)
 
 
 ## Get in touch
