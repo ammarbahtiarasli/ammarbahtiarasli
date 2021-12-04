@@ -2,7 +2,7 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ahmad Ammar Bahtiar and I'm a Freelance Web Developer. I'm from Pangandaran - Indonesia, living in Pangandaran and currently Studying at University Pasundan, Bandung.
+My name is Ahmad Ammar Bahtiar, currently Studying at University Pasundan, Bandung.
 
 ## &#x270d; My Website
 
