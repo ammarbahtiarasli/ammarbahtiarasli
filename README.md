@@ -1,5 +1,4 @@
-## Hello World 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Readme 
 
 I design, build, and maintain software applications. I’m also passionate about design and committed to sharing knowledge in my role as a student at `pasundan university`.
 
