@@ -5,4 +5,4 @@
   I am Ammar Bahtiar. (ammarbahtiarasli). 
 `
 
-<img alt="banner" src="https://i.ibb.co.com/nq0Q8rNM/banner.png" width="100%">
+<img alt="banner" src="https://raw.githubusercontent.com/ammarbahtiarasli/ammarbahtiarasli/refs/heads/main/banner.png" width="100%">
