@@ -3,6 +3,7 @@
  
  `
   I am Ammar Bahtiar. (ammarbahtiarasli). 
+  Feel free to reach out if you want to chat! 
 `
 
-<img alt="banner" src="https://raw.githubusercontent.com/ammarbahtiarasli/ammarbahtiarasli/refs/heads/main/banner.png" width="100%">
+<img alt="banner" src="https://raw.githubusercontent.com/ammarbahtiarasli/ammarbahtiarasli/refs/heads/main/alabs.png" width="100%">
